@@ -1,6 +1,6 @@
 {
-  "version": "1.6.9~test1",
-  "deb_url": "https://github.com/fp-connect-team/fp-connect-releases/releases/download/test/fp-connect_1.6.9~test1_all.deb",
-  "sha256": "cb15f25a3535012257e5de29ebfbc7475e54de95f3a7410dc7b25a0bca5c4908",
-  "notes": "Проверка автоматической публикации тестовой сборки"
+  "version": "1.6.9~test2",
+  "deb_url": "https://github.com/fp-connect-team/fp-connect-releases/releases/download/test/fp-connect_1.6.9~test2_all.deb",
+  "sha256": "49d2f0e2a241f5cf95d1f886a0e0a6e65ed6f84799ff7cf0535f5157eca8ce3d",
+  "notes": "Автоматическая тестовая сборка из test/in-app-changelog-1.6.9-test2"
 }
