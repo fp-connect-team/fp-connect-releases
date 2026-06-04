@@ -1,0 +1,6 @@
+{
+  "version": "1.6.9~test1",
+  "deb_url": "https://github.com/fp-connect-team/fp-connect-releases/releases/download/test/fp-connect_1.6.9-test1_all.deb",
+  "sha256": "cd975f77b8ee205dbc2bbd8a3afc4b0c53d9e76a715a1f145f365f4515b82f45",
+  "notes": "Тестовая сборка: кнопка версии открывает историю изменений; в настройках добавлен выбор стабильного или тестового канала обновлений."
+}
